@@ -97,15 +97,23 @@
 
 ## 5- Planificación
 
-> _EXPLICACIÓN_: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
+>Para organizar o desenvolvemento da aplicación, establecerase unha planificación dividida en fases. Cada fase inclúe unha serie de tarefas específicas que permitirán avanzar de maneira ordenada desde a idea inicial ata unha versión funcional da aplicación.
 >
-> O proxecto estará formado polas seguintes fases:
+>A duración total estimada do proxecto será de aproximadamente **3 meses**, tendo en conta o tempo necesario para realizar todas as fases do proxecto, que serán as detalladas na seguinte táboa:
 >
-> - Estudo preliminar
-> - Análise
-> - Deseño
-> - Codificación e probas (debe ser a fase máis longa).
+> | Fase | Data de inicio | Duración estimada | Descrición das tarefas |
+> |-----|---------------|------------------|------------------------|
+> | **Estudo preliminar** | 09/03/2026 | 1 semana | Definición da idea do proxecto, análise do problema do abandono animal e identificación das necesidades dos usuarios e das protectoras. Investigación de plataformas similares e primeiras decisións tecnolóxicas. |
+> | **Análise** | 16/03/2026 | 1 semana | Definición dos requisitos aplicación. Identificación dos tipos de usuarios (administradores, refuxios e adoptadores). Definición inicial da estrutura da base de datos e fluxos principais da aplicación. |
+> | **Deseño** | 23/03/2026 | 3 semanas | Deseño da arquitectura da aplicación (modelo MVC), creación do modelo da base de datos, elaboración de wireframes e bocetos das interfaces da web, definición da navegación entre páxinas e organización do proxecto. |
+> | **Codificación e probas** | 13/04/2026 | 2 meses | Desenvolvemento da aplicación utilizando PHP, MySQL, HTML, CSS e JavaScript. Implementación das funcionalidades principais: rexistro de usuarios, xestión de animais, visualización de información e formularios de contacto. Realización de probas para detectar e corrixir erros antes do despregue final. |
 >
-> Debe facerse un calendario ou un diagrama de Gantt indicando, para cada fase, a data de inicio, a súa duración e breve descrición das tarefas a realizar.
-
+> ### Diagrama do proxecto
+> | Fase | Marzo | Abril | Maio | Xuño |
+> |-----|------|------|------|------|
+> | **Estudo preliminar** | ███&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; |
+> | **Análise** | &nbsp;&nbsp;&nbsp;&nbsp;███ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
+> | **Deseño** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
+> | **Codificación e probas** |&nbsp;&nbsp;&nbsp;&nbsp; | █████████ | █████████ | |
+>
 [**<-Anterior**](../README.md)
