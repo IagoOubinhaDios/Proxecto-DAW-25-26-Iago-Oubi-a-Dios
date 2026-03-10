@@ -114,6 +114,6 @@
 > | **Estudo preliminar** | ███&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; |
 > | **Análise** | &nbsp;&nbsp;&nbsp;&nbsp;███ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
 > | **Deseño** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
-> | **Codificación e probas** |&nbsp;&nbsp;&nbsp;&nbsp; | █████████ | █████████ | |
+> | **Codificación e probas** |&nbsp;&nbsp;&nbsp;&nbsp; | █████████ | █████████ | █ |
 >
 [**<-Anterior**](../README.md)
