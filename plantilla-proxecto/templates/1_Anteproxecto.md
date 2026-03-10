@@ -5,7 +5,7 @@
   - [2- Contextualización](#2--contextualización)
   - [3- Estudio de alternativas e viabilidade](#3--estudio-de-alternativas-e-viabilidade)
     - [3.1- Estudio de alternativas](#31--estudio-de-alternativas)
-    - [3.2 Xustificación da alternativa](#32-xustificación-da-alternativa)
+    - [3.2- Xustificación da alternativa](#32--xustificación-da-alternativa)
   - [4- Requirimentos técnicos](#4--requirimentos-técnicos)
   - [5- Planificación](#5--planificación)
 
@@ -51,7 +51,7 @@
 > | A4 | Media (6/10): Laravel ofrece unha estrutura moderna e organizada, mentres que Vue.js permite crear interfaces dinámicas. <br> **Fortalezas**: arquitectura limpa, ferramentas integradas para seguridade, rutas e autenticación. <br> **Debilidades**: require aprender varios frameworks e ferramentas adicionais. | Alta (8/10): software libre, pero pode requirir hosting con características algo máis avanzadas (Composer, SSH, PHP actualizado). | Media-Baixa (5/10): debido á aprendizaxe dos frameworks e configuración do proxecto, o tempo estimado sería de 4–5 meses.	| 6/10 |
 
 
-### 3.2 Xustificación da alternativa
+### 3.2- Xustificación da alternativa
 
 > Tras analizar as diferentes opcións, decídese elixir a alternativa A3 (PHP + MySQL + HTML5 + CSS3 + JavaScript) para o desenvolvemento da aplicación web de adopción de animais. Esta opción destaca principalmente por:
 >
@@ -72,7 +72,7 @@
 
 > ### Infraestrutura
 > Para que a aplicación web poida estar dispoñible en internet será necesario contar cunha infraestrutura básica composta polos seguintes elementos:
-> - **Dominio web:** Enderezo que permitirá acceder á páxina (por exemplo: *www.meetyourfriend.com*).
+> - **Dominio web:** Enderezo que permitirá acceder á páxina (*www.pawtnerfurlife.com*).
 > - **Hosting ou servidor web:** Servizo onde se aloxará a aplicación, con soporte para **PHP** e **MySQL**.
 > - **Servidor de base de datos:** Usarase **MySQL** para almacenar a información da aplicación.
 > - **Almacenamento:** Espazo no servidor para gardar os ficheiros da web, como imaxes dos animais e outros recursos.
