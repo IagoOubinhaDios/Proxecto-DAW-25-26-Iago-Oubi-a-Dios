@@ -16,7 +16,7 @@
 
 ## 1- Idea do proxecto
 
- O noso proxecto consiste no deseño e desenvolvemento dunha aplicación e páxina web dedicada á adopción de animais de compañía. O obxectivo principal é crear un espazo en internet onde persoas interesadas poidan coñecer animais que precisan un fogar e iniciar o proceso de adopción dun xeito sinxelo e claro.
+ O noso proxecto consiste no deseño e desenvolvemento dunha **aplicación e páxina web dedicada á adopción de animais de compañía**. O obxectivo principal é crear un espazo en internet onde persoas interesadas poidan coñecer animais que precisan un fogar e iniciar o proceso de adopción dun xeito sinxelo e claro.
 
  Permitirase ver información de cada animal, facilitando que os usuarios poidan atopar a mascota que mellor se adapte á súa situación. Ademais, incluirá formularios de contacto ou solicitude para que as persoas interesadas poidan comunicarse facilmente cos refuxios responsables dos animais.
 
@@ -26,9 +26,9 @@
 
 ## 2- Contextualización
 
- Na actualidade existe un gran número de animais abandonados ou en refuxios e protectoras á espera de atopar un fogar. Moitas veces, as persoas interesadas en adoptar non saben onde buscar información ou non teñen acceso fácil aos animais dispoñibles, e moitas asociacións pequenas non contan con ferramentas dixitais eficaces para ter visibilidade.
+ Na actualidade existe un *gran número de animais abandonados ou en refuxios e protectoras á espera de atopar un fogar*. Moitas veces, as persoas interesadas en adoptar non saben *onde buscar información* ou non teñen *acceso fácil aos animais dispoñibles*, e moitas asociacións pequenas non contan con *ferramentas dixitais eficaces para ter visibilidade*.
 
- O proxecto consiste no desenvolvemento dunha aplicación e páxina web dedicada á adopción de animais. O seu propósito é crear un punto de encontro entre persoas dispostas a adoptar unha mascota e institucións con animais en busca dun fogar. Os usuarios poderán ver información sobre os animais dispoñibles, coñecer as súas características e contactar coas entidades responsables para iniciar o proceso de adopción.
+ O proxecto consiste crear un **punto de encontro entre persoas dispostas a adoptar unha mascota e institucións con animais en busca dun fogar**. Os usuarios poderán ver información sobre os animais dispoñibles, coñecer as súas características e contactar coas entidades responsables para iniciar o proceso de adopción.
 
  Entre os principais obxectivos do proxecto están facilitar o acceso á información sobre os animais, fomentar a adopción responsable e axudar a reducir o abandono animal. Tamén se pretende ofrecer ás protectoras unha ferramenta sinxela coa que poidan publicar e xestionar os perfís dos animais. Ademais, esta aplicación tamén pode abrir unha oportunidade de negocio, ofrecendo servizos a refuxios, asociacións ou clínicas veterinarias para publicar información ou promocionar determinados servizos relacionados co coidado dos animais. Incluso podería incluír colaboracións con tendas de mascotas, publicidade ou servizos premium para mellorar a visibilidade dos animais ou das entidades participantes.
 
