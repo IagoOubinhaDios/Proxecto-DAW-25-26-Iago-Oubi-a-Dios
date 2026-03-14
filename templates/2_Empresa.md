@@ -200,4 +200,4 @@ Análise:
 
 - _Cobertura de perdas_: Eventuais perdas iniciais poderían cubrirse a través de **subvencións, programas de apoio á innovación ou financiamento público**, garantindo a continuidade da plataforma ata acadar un equilibrio económico.
 
-[**<-Anterior**](../../README.md)
+[**<-Anterior**](../README.md)
