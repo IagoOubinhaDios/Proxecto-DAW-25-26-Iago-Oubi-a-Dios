@@ -113,11 +113,6 @@ A duración total estimada do proxecto será de aproximadamente **3 meses**, ten
  | **Codificación e probas** | 13/04/2026 | 2 meses | Desenvolvemento da aplicación utilizando PHP, MySQL, HTML, CSS e JavaScript. Implementación das funcionalidades principais: rexistro de usuarios, xestión de animais, visualización de información e formularios de contacto. Realización de probas para detectar e corrixir erros antes do despregue final. |
 
  ### Diagrama do proxecto
- | Fase | Marzo | Abril | Maio | Xuño |
- |-----|------|------|------|------|
- | **Estudo preliminar** | ███&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; |
- | **Análise** | &nbsp;&nbsp;&nbsp;&nbsp;███ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
- | **Deseño** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████████ |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; |
- | **Codificación e probas** |&nbsp;&nbsp;&nbsp;&nbsp; | █████████ | █████████ | █ |
+![Diagrama Gantt](../doc/img/Gantt.PNG)
 
 [**<-Anterior**](../README.md)
