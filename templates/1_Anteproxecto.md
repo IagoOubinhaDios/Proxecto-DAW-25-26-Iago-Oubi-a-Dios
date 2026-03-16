@@ -77,7 +77,7 @@
  ### Infraestrutura
  Para que a aplicación web poida estar dispoñible en internet será necesario contar cunha infraestrutura básica composta polos seguintes elementos:
  - **Dominio web:** Enderezo que permitirá acceder á páxina (*www.pawtnersfurever.com*).
- - **Hosting ou servidor web:** Servizo onde se aloxará a aplicación, con soporte para **PHP** e **MySQL**.
+ - **Hosting ou servidor web:** Servizo onde se aloxará a aplicación, con soporte para **PHP** e **MySQL**. Tendrá 1 GB de memoria RAM para a execución dos procesos do servidor e scripts desenvolvidos en PHP, 1 vCPU para procesar as peticións dos usuarios que accedan á aplicación. Terá compatibilidade con PHP 8 ou superior, e certificado SSL incluído para garantir conexións seguras mediante HTTPS.
  - **Servidor de base de datos:** Usarase **MySQL** para almacenar a información da aplicación.
  - **Almacenamento:** Espazo no servidor para gardar os ficheiros da web, como imaxes dos animais e outros recursos.
  - **Memoria e rendemento:** Ao tratarse dunha aplicación relativamente sinxela, un hosting básico con recursos estándar (2–3 GB de almacenamento e soporte para bases de datos) será suficiente para o funcionamento inicial do proxecto.

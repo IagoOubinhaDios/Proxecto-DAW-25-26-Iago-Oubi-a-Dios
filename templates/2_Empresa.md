@@ -50,7 +50,9 @@ Este proxecto está dirixido principalmente a **persoas ou familias interesadas 
 
 En primeiro lugar, un dos segmentos principais son particulares ou familias que desexan adoptar unha mascota, especialmente **adultos novos, persoas maiores e familias que buscan un animal de compañía**. Xeralmente trátase de persoas que utilizan internet e dispositivos móbiles para buscar información e que valoran poder comparar opcións e obter datos claros antes de tomar unha decisión.
 
-Outro segmento importante son as **protectoras e refuxios de animais**. Estas organizacións necesitan **canles eficaces para mostrar os animais que teñen ao seu cargo e facilitar o contacto con posibles adoptantes**. A plataforma permitiralles publicar información sobre os animais, actualizar os seus datos e recibir solicitudes de adopción de maneira organizada.
+Outro segmento importante son as **protectoras e refuxios de animais**. Estas organizacións necesitan **canles eficaces para mostrar os animais que teñen ao seu cargo e facilitar o contacto con posibles adoptantes**. A plataforma permitiralles publicar información sobre os animais, actualizar os seus datos e recibir solicitudes de adopción de maneira organizada. Mais concretamente, está pensada para refuxios e protectoras de **mais pequenas, as cales por tanto teñen moitos menos recursos para ter visibilidade**, e cun
+
+Entre os clientes importantes tamén atopamos **distintos tipos de empresas e asociacións dedicadas ao coidado dos animais**, como por exemplo clínicas veterinarias, marcas de xoguetes e alimento para animais, aseguradoras de mascotas, etc., as cales tendrían páxinas de información sorbe as mesas e pagarían por recibir publicidade na nosa páxina e aplicación.
 
 
 
@@ -112,16 +114,16 @@ Total estimado do investimento inicial: **aproximadamente 4.630 €**
 ### 1.7.1- Custos
 
 #### Custos fixos
-- Custo das oficinas de traballo: 3.000 € / ano
+- Custo das oficinas de traballo: 1.200 € / ano
 - Hosting e servidor web: 100 € / ano
 - Dominio web: 15 € / ano
 - Servizos de almacenamento e base de datos na nube: 150 € / ano
-- Mantemento técnico da web e da aplicación: 500 € / ano
+- Mantemento técnico da web e da aplicación: 400 € / ano
 - Publicidade básica e promoción en internet: 300 € / ano
 - Software e ferramentas dixitais: 200 € / ano
 - Servizos de seguridade e copias de seguridade: 100 € ao ano
-  
-Total custos fixos aproximados: **4.365 € por ano**
+
+Total custos fixos aproximados: **2.465 € por ano**
 
 #### Custos variables
 - Campañas adicionais de publicidade ou promoción: 200 – 500 € / ano
@@ -133,7 +135,7 @@ Total estimado de custos variables: **entre 500 € e 1.200 € por ano**
 #### Impostos e custos sociais
 Se o proxecto xera ingresos e se establece como actividade económica, deberán considerarse:
 1. IVE (Imposto sobre o Valor Engadido) aplicado aos servizos ofrecidos.
-Supoñendo que os servizos premium para protectoras son de 15 € ao mes por cada unha, con 10 protectoras:
+Supoñendo que os servizos premium para protectoras son de aproximadamente 20 € ao mes por cada unha, con 10 protectoras:
 - _Ingreso mensual_: 20 € × 10 = 200 €
 - _Ingreso anual_: 200 € × 12 meses = 2.400 €
 - IVE do **21%** aplicado aos ingresos facturados a clientes (non subvencións nen ingresos non suxeitos): 2.400 € × 21% ≈ **504 € por ano**
@@ -142,10 +144,10 @@ Supoñendo que os ingresos o primer ano sería nde aproximadamente 3.900 €, e 
 - _Beneficio neto_: 3.900 − 2.215 = 1.685 € de beneficio neto aproximadamente
 - _IRPF_ = 1.685 x 25% ≈ **421.25 € aproximadamente**
 3. Cotizacións á Seguridade Social.
-Contando con que a empresa, nun inicio, estará formada por 2 socios cofundadores e 4 traballadores mais:
-- _Socios cofundadores_: autónomos societarios, aproximadamente 320 €/mes cada un → 320 € × 12 × 2 = 7.680 € por ano
-- _Traballadores_: Aproximadamente 1.200 € por ano: 1.200 € x 4 = 4.800 € por ano
-- _Total cotizacións á Seguridade Social_: 7.680 € + 4.800 € = **12.480€ por ano**
+Contando con que a empresa, nun inicio, estará formada por 2 socios cofundadores e 2 traballadores mais:
+- _Socios cofundadores_: Durante o primeiro ano os socios non percibirán salario fixo, co obxectivo de reducir custos e reinvestir os ingresos no desenvolvemento da plataforma. A partir do segundo ano, o coste sería aproximadamente 320 €/mes cada un → 320 € × 12 × 2 = 7.680 € por ano
+- _Traballadores_: Aproximadamente 1.200 € por ano: 1.200 € x 2 = 2.400 € por ano
+- _Total cotizacións á Seguridade Social_: 7.680 € + 2.400 € = **10.080€ por ano**
 
 
 ### 1.7.2- Ingresos
@@ -172,7 +174,7 @@ Total ingresos aproximados: **3.900 € por ano**
 ### 1.8.1- Viabilidade técnica
 
 O proxecto é viable dende o punto de vista técnico, tendo en conta:
-- **Recursos humanos**: Contamos cun equipo inicial formado por 2 socios cofundadores, encargados da xestión e coordinación, e 4 traballadores especializados (2 backend e 2 frontend), suficientes para desenvolver e manter a aplicación e páxina web.
+- **Recursos humanos**: Contamos cun equipo inicial formado por 2 socios cofundadores, encargados da xestión e coordinación, e 2 traballadores especializados (1 backend e 1 frontend), suficientes para desenvolver e manter a aplicación e páxina web.
 - **Medios de produción**: Os recursos necesarios inclúen ordenadores, periféricos, mobiliario, servidores, software e ferramentas de desenvolvemento. Todos estes recursos son accesibles e non presentan limitacións técnicas para a posta en marcha do proxecto.
 - **Materias primas e instalacións**: Non existen materias primas complexas. A infraestrutura céntrase en hardware, software e conectividade a internet. As instalacións requiridas son oficinas cun custo aproximado de 250 € ao mes, perfectamente asumible.
 - **Impedimentos técnicos**: Non se identifican barreiras técnicas significativas. O desenvolvemento dunha aplicación web e móvil cunha base de datos para xestionar animais en adopción é tecnicamente alcanzable cos recursos humanos e materiais dispoñibles.
@@ -181,7 +183,7 @@ O proxecto é viable dende o punto de vista técnico, tendo en conta:
 ### 1.8.2 - Viabilidade económica
 A viabilidade económica baséase nos investimentos, custos e ingresos estimados:
 - _Investimento inicial_: aproximadamente 5.535 € (ordenadores, periféricos, mobiliario, software, deseño, publicidade e fondo para imprevistos).
-- _Custos fixos anuais_: aproximadamente 1.265 €
+- _Custos fixos anuais_: aproximadamente 2.465 €
 - _Custos variables anuais_: entre 500 € e 1.200 €
 - _Custos fiscais e sociais_: aproximadamente 13.109 € (cotizacións de socios e empregados, IVE, Imposto sobre Sociedades)
 - _Ingresos anuais estimados_: 3.900 € (plans premium e publicidade)
@@ -196,7 +198,7 @@ Análise:
 
 - _Viabilidade_: O proxecto é viable, tanto técnica como economicamente, cunha **planificación adecuada** e a posibilidade de **cubrir déficits iniciais mediante financiamento ou subvencións**.
 
-- _Beneficios vs custos_: No primeiro ano, os beneficios poden ser baixos ou negativos se se consideran todos os custos sociais, pero a inversión inicial e os ingresos estimados permiten cubrir os custos operativos básicos. A longo prazo, co aumento de clientes ou adopcións premium, os beneficios poderán superar os custos.
+- _Beneficios vs custos_: No primeiro ano, inclus contando co caso de que o impacto da aplicación sexa mais baixo do esperado, a inversión inicial e os ingresos estimados permiten cubrir os custos operativos básicos, e a longo prazo, co aumento de clientes, os beneficios poderán superar os custos.
 
 - _Cobertura de perdas_: Eventuais perdas iniciais poderían cubrirse a través de **subvencións, programas de apoio á innovación ou financiamento público**, garantindo a continuidade da plataforma ata acadar un equilibrio económico.
 
