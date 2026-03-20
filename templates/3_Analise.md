@@ -12,31 +12,50 @@
 
 ## 1- Descrición Xeral
 
->*EXPLICACION*: Descrición Xeral do proxecto
+O proxecto consiste no deseño e desenvolvemento dunha aplicación móbil e unha páxina web enfocadas á adopción de animais de compañía. Ppermitirá conectar persoas interesadas en adoptar cunha rede de refuxios e protectoras, facilitando o acceso á información e o proceso de adopción e coidado dos animais.
+
+A aplicación ofrecerá un catálogo de animais dispoñibles, no que cada un contará cunha ficha detallada con información relevante como idade, raza, tamaño, estado de saúde, carácter e situación actual. Isto permitirá aos usuarios atopar a mascota que mellor se adapte ás súas condicións.
+
+O sistema tamén incluirá funcionalidades de contacto mediante formularios e solicitudes de adopción, permitindo unha comunicación directa e sinxela entre os usuarios e as entidades responsables dos animais, garantindo un proceso claro e accesible.
+
+En resumo, preténdese aproveitar as vantaxes das tecnoloxías web e móbiles para dar visibilidade aos animais que precisan fogar, apoiar o labor das protectoras, contribuír á redución do abandono animal e facilitar o coidado dos mesmos.
+
+
 
 ## 2- Funcionalidades
 
->*EXPLICACION* Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
->
-> Enumeradas, de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
-> Cada función ten uns datos de entrada e uns datos de saída. Entre os datos de entrada e de saída, realízase un proceso, que debe ser explicado.
-
-Exemplo:
-
-| Acción   |  Descrición        |
-|----------|--------------------|
-| Alta de productos   | Dar de alta os productos na base de datos|
-| Modificar productos | Modificación de productos na base de datos|
-| Presentación dos productos  | Mostra dos productos por medio da páxina web |
+| Acción | Descrición |
+|--------|------------|
+| Consulta de animais | **Actor:** Usuario. <br> **Entrada:** filtros de busca (tipo, idade, tamaño, etc.). <br> **Proceso:** consulta na base de datos segundo os filtros aplicados. <br> **Saída:** listado de animais dispoñibles. |
+| Visualización de detalles dun animal | **Actor:** Usuario. <br> **Entrada:** selección dun animal. <br> **Proceso:** recuperación da información completa do animal. <br> **Saída:** ficha detallada do animal. |
+| Visualización de detalles dun refuxio | **Actor:** Usuario. <br> **Entrada:** selección dun refuxio. <br> **Proceso:** recuperación da información completa do refuxio. <br> **Saída:** ficha detallada do refuxio. |
+| Solicitude de adopción | **Actor:** Usuario. <br> **Entrada:** formulario de solicitude (datos persoais, mensaxe, etc.). <br> **Proceso:** envío da solicitude ao refuxio correspondente. <br> **Saída:** rexistro da solicitude e notificación ao refuxio. |
+| Contacto co refuxio | **Actor:** Usuario. <br> **Entrada:** mensaxe de contacto. <br> **Proceso:** envío da mensaxe á entidade responsable. <br> **Saída:** comunicación establecida entre usuario e refuxio. |
+| Xestión de animais | **Actor:** Refuxio. <br> **Entrada:** datos do animal (nome, idade, descrición, imaxes, etc.). <br> **Proceso:** alta, modificación ou eliminación na base de datos. <br> **Saída:** catálogo actualizado de animais. |
+| Xestión de solicitudes | **Actor:** Refuxio. <br> **Entrada:** solicitudes de adopción recibidas. <br> **Proceso:** revisión e resposta ás solicitudes. <br> **Saída:** estado actualizado da solicitude (aceptada, rexeitada, en proceso). |
+| Alta de animais en adopción | **Actor:** Refuxio. <br> **Entrada:** Poñer a un animal ao seu coidado en disposición de ser adoptado e viceversa <br> (animais que contraen lesións ou enfermidades que requiren coidados, por exemplo) . <br> **Proceso:** modificación na base de datos. <br> **Saída:** Actualización dos datos do animal seleccionado. |
 
 ## 3- Tipos de usuarios
 
-> *EXPLICACION* Describir os tipos de usuario que poderán acceder ao noso sistema. Habitualmente os tipos de usuario veñen definidos polas funcionalidades ás cales teñen acceso. En termos xerais existen moitos grupos de usuarios: anónimos, novos, rexistrados, bloqueados, confirmados, verificados, administradores, etc.
->
-> Exemplo:
->
-> - Usuario xenérico, que terá acceso a ...
-> - Usuario técnico, que poderá...
+- **Usuario anónimo**  
+  Poderá acceder á páxina web sen rexistrarse. Terá acceso á visualización xeral dos animais dispoñibles e poderá consultar información básica, pero non poderá realizar solicitudes nin contactar cos refuxios.
+
+- **Usuario rexistrado**  
+  Poderá crear unha conta e iniciar sesión na plataforma. Terá acceso a funcionalidades como gardar preferencias, enviar solicitudes de adopción e contactar cos refuxios. Ademais, poderá xestionar os seus datos persoais.
+
+- **Refuxio / Protectora con plan básico**  
+  Este tipo de usuario representará ás entidades responsables dos animais. Poderá dar de alta novos animais, modificar a súa información, eliminar rexistros e xestionar as solicitudes de adopción recibidas.
+
+- **Refuxio / Protectora con plan premium**  
+  Este tipo de usuario representará ás entidades responsables dos animais que paguen o plan premium, co cal contarán con funcionalidades extra, como peticións aos administradores de anuncios deles na aplicación, gráficos que mostren o ratio de adopcións nun tempo determinado, posibilidade de poñerse en contacto con outros refuxios para intercambiar animais en coidado en caso de que, por exemplo, o refuxio poida ter a súa capacidade de animais chea, poida ofrecer a dito animal mellores coidados, etc.
+
+- **Administrador**  
+  Terá control total sobre o sistema. Poderá xestionar usuarios, refuxios e contidos da plataforma, así como supervisar o correcto funcionamento da aplicación e resolver posibles incidencias.
+
+- **Usuario bloqueado**  
+  Usuario rexistrado que, por incumprimento das normas, ten restrinxido o acceso á plataforma ou a determinadas funcionalidades.
+
+
 
 ## 4- Contorno operacional
 
