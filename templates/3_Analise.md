@@ -8,7 +8,6 @@
   - [5- Normativa](#5--normativa)
   - [6- Melloras futuras](#6--melloras-futuras)
 
-> *EXPLICACION*: Este documento describe os requirimentos para "nome do proxecto" especificando que funcionalidade ofrecerá e de que xeito.
 
 ## 1- Descrición Xeral
 
@@ -59,25 +58,91 @@ En resumo, preténdese aproveitar as vantaxes das tecnoloxías web e móbiles pa
 
 ## 4- Contorno operacional
 
-> *EXPLICACION* Neste apartado deben describirse os recursos necesarios, dende o punto de vista do usuario, para poder operar coa aplicación web. Habitualmente consiste nun navegador web actualizado e unha conexión a internet.
-Se é necesario algún hardware ou software adicional, deberá indicarse.
+* **Dispositivo con acceso a internet**
+
+  * Ordenador, tableta ou teléfono móbil.
+  * A aplicación estará adaptada a distintos dispositivos (deseño responsive).
+
+* **Navegador web actualizado**
+
+  * Exemplos: Google Chrome, Mozilla Firefox, Safari ou Microsoft Edge.
+  * Permite o correcto funcionamento da páxina e das súas funcionalidades.
+
+* **Conexión a internet estable**
+
+  * Necesaria para a carga de información de animais, envio de formularios, e deamis funcionalidades que requiran conexión a Internet.
+
+* **Conta de correo electrónico (opcional pero recomendable)**
+
+  * Para recibir respostas, confirmacións de solicitudes e comunicación cos refuxios.
+
+
 
 ## 5- Normativa
 
-> *EXPLICACION* Investigarase que normativa vixente afecta ao desenvolvemento do proxecto e de que maneira. O proxecto debe adaptarse ás esixencias legais dos territorios onde vai operar.
-> 
-> Pola natureza dos sistema de información, unha lei que se vai a ter que mencionar de forma obrigatoria é la [Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDPGDD)](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673). O ámbito da LOPDPGDD é nacional. Se a aplicación está pensada para operar a nivel europeo, tamén se debe facer referencia á [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Na documentación debe afirmarse que o proxecto cumpre coa normativa vixente.
->
-> Para cumplir a LOPDPGDD e/ou GDPR debe ter un apartado na web onde se indique quen é a persoa responsable do tratamento dos datos e para que fins se van utilizar. Habitualmente esta información estructúrase nos seguintes apartados:
->
-> - Aviso legal.
-> - Política de privacidade.
-> - Política de cookies.
->
-> É acosenllable ver [exemplos de webs](https://www.spotify.com/es/legal/privacy-policy/) que conteñan textos legais referenciando a LOPDPGDD ou GDPR.
+O desenvolvemento da aplicación web debe cumprir coa normativa legal vixente nos territorios onde vai operar, especialmente en materia de protección de datos e servizos dixitais. Ao tratarse dunha plataforma que recolle información persoal dos usuarios, é imprescindible garantir o correcto tratamento destes datos. Para isto, a aplicación será desenvolvida respectando as seguintes obrigas legais:
+
+* **Lei Orgánica 3/2018, de Protección de Datos Persoais e garantía dos dereitos dixitais (LOPDGDD)**
+
+  * Esta lei regula o tratamento de datos persoais en España.
+  * A aplicación deberá garantir que os datos dos usuarios sexan recollidos de forma lícita, segura e transparente.
+  * Os usuarios deberán ser informados sobre o uso dos seus datos e terán dereito a acceder, modificar ou eliminar a súa información persoal.
+
+* **Regulamento Xeral de Protección de Datos (GDPR)**
+
+  * De aplicación en toda a Unión Europea.
+  * No caso de que a aplicación poida ser utilizada por usuarios doutros países europeos, deberá cumprir tamén con este regulamento.
+  * Esixe medidas adicionais como o consentimento explícito do usuario e a protección reforzada da privacidade.
+
+* **Lei de Servizos da Sociedade da Información e Comercio Electrónico (LSSI-CE)**
+
+  * Regula os servizos prestados a través de internet en España.
+  * Obriga a identificar claramente o responsable da páxina web e a ofrecer información de contacto.
+  * Tamén regula o uso de cookies e as comunicacións electrónicas.
+
+* **Cumprimento legal na aplicación web**
+
+  * O proxecto incluirá obrigatoriamente os seguintes apartados visibles na web:
+
+    * **Aviso legal**: onde se identifique a persoa ou entidade responsable da web.
+    * **Política de privacidade**: explicando como se recollen, usan e protexen os datos persoais.
+    * **Política de cookies**: informando sobre o uso de cookies e solicitando o consentimento do usuario.
+
+* **Compromiso de cumprimento**
+
+  * O proxecto comprométese a cumprir coa normativa vixente en materia de protección de datos e servizos dixitais.
+  * Adoptaranse medidas técnicas e organizativas adecuadas para garantir a seguridade da información e a privacidade dos usuarios.
+
+
 
 ## 6- Melloras futuras
 
-> *EXPLICACION* É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
+O proxecto da aplicación web de adopción de animais poderá ampliarse no futuro incorporando novas funcionalidades que melloren a experiencia dos usuarios e incrementen o seu impacto social. A continuación, descríbense algunhas posibles liñas de evolución:
 
-[**<-Anterior**](../../README.md)
+* **Sistema de valoración e comentarios**
+
+  * Permitir aos usuarios valorar refuxios ou experiencias de adopción.
+  * Aumentar a confianza e transparencia na plataforma.
+
+* **Chat en tempo real**
+
+  * Comunicación directa entre usuarios e refuxios.
+  * Axilizar o proceso de adopción.
+
+* **Soporte multilingüe**
+
+  * Tradución da aplicación a varios idiomas.
+  * Ampliar o alcance a máis usuarios.
+
+* **Integración con redes sociais**
+
+  * Compartir animais facilmente.
+  * Dar maior visibilidade ás adopcións.
+
+* **Expansión internacional da plataforma**
+
+  * Posibilidade de utilizar a aplicación en diferentes países, non limitándose só a España.
+  * Adaptación ás normativas legais de cada país.
+  * Colaboración con refuxios e protectoras internacionais.
+
+[**<-Anterior**](../README.md)
