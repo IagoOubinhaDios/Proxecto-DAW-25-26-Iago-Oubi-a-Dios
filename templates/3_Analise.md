@@ -117,7 +117,7 @@ O desenvolvemento da aplicación web debe cumprir coa normativa legal vixente no
 
 ## 6- Melloras futuras
 
-O proxecto da aplicación web de adopción de animais poderá ampliarse no futuro incorporando novas funcionalidades que melloren a experiencia dos usuarios e incrementen o seu impacto social. A continuación, descríbense algunhas posibles liñas de evolución:
+O proxecto poderá ampliarse no futuro incorporando novas funcionalidades que melloren a experiencia dos usuarios e incrementen o seu impacto social. A continuación, descríbense algunhas posibles liñas de evolución:
 
 * **Sistema de valoración e comentarios**
 
